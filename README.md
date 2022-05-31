@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxy" alt="oxy" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **HTML, СSS & JavaScript**
+-  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 - 📫 How to reach me **artem.aleksiutovich.br@gmail.com**
 
