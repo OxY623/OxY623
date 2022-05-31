@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxy" alt="oxy" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, СSS & JavaScript**
--  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+-  <img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752)">
 
 - 📫 How to reach me **artem.aleksiutovich.br@gmail.com**
 
