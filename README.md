@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Artem (OxY) Aleksiutovich</h1>
 <h3 align="center">Full-Stack Python Developer | Web Backend Developer | Django Web Developer | Flask Developer |</h3>
 
-- 🌱 I’m currently learning **HTML, СSS & JavaScript**
+- 🌱 I’m currently learning **Python, Django, Flask, HTML, СSS & JavaScript**
   <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 - 📫 How to reach me **artem.aleksiutovich.br@gmail.com**
