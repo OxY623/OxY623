@@ -33,9 +33,9 @@
 ---
 
 <h3 align="left">🔥 What I Can Do For You:</h3>
-- High-converting **landing pages** with React & Tailwind CSS  
-- Responsive & **SEO-friendly web interfaces**  
-- REST API integration for **dynamic websites**  
+- High-converting landing pages with React & Tailwind CSS  
+- Responsive & SEO-friendly web interfaces  
+- REST API integration for dynamic websites  
 - Optimized performance & UX across devices  
 
 ---
