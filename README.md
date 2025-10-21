@@ -1,44 +1,55 @@
-<h1 align="center">Artem (OxY) Aleksiutovich</h1>
-<h3 align="center">Front-End Developer | Landing Pages & Interactive Web Interfaces | React & TypeScript</h3>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=200&section=header&text=Artem%20(OxY)%20Aleksiutovich&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 
-🚀 **I build landing pages that convert visitors into customers.**  
-🎯 Focus: React, Next.js, TypeScript, Tailwind CSS, API integration, responsive & fast websites.  
-💡 My mission: make your ideas look **modern, clean, and professional** on the web.
+<h3 align="center">⚡ Front-End Developer • React Ecosystem • Modern Web Experiences ⚡</h3>
+
+<p align="center">
+🚀 Building fast, scalable, and beautiful web products.  
+🎯 Focused on **React**, **TypeScript**, and **clean UI/UX**.  
+💡 Passionate about transforming ideas into elegant, functional digital experiences.
+</p>
 
 ---
 
-<h3 align="left">📬 Contact Me:</h3>
-<p align="left">
+### 🧠 Current Focus
+- 🌐 Frontend architecture with **Vite + React + RTK Query**
+- 🧩 UI systems powered by **Tailwind CSS** & custom design tokens
+- ⚙️ Building automation & backend integration with **Express / Node.js**
+- 🦊 Developing [**Fox&Oxy**](#) — a clothing brand that donates 10% to wildlife rescue
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,express,git,linux,vite" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oxyroot&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyroot&theme=react&hide_border=true&background=0d1117" height="165" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
   <a href="mailto:artem.aleksiutovich.br@gmail.com">
-    <img src="https://img.shields.io/badge/Email-artem.aleksiutovich.br@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/artem-aleksiutovich-407594235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Artem-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">💻 Skills & Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+🧭 “Code is the language of the future — I’m just fluent early.”  
+<br/>
+📩 <b>artem.aleksiutovich.br@gmail.com</b>
 </p>
 
----
-
-<h3 align="left">🔥 What I Can Do For You:</h3>
-- High-converting landing pages with React & Tailwind CSS  
-- Responsive & SEO-friendly web interfaces  
-- REST API integration for dynamic websites  
-- Optimized performance & UX across devices  
-
----
-
-💬 **Let's create a website that not only looks amazing but actually sells.**  
-📩 Reach out: artem.aleksiutovich.br@gmail.com
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=120&section=footer" />
