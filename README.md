@@ -27,10 +27,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OxY623&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxY623&theme=dracula&hide_border=false"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxY623&theme=dracula&show_icons=true&hide_border=false&layout=compact)"/>
+</div>
 
 ---
 
