@@ -20,9 +20,10 @@
 ---
 
 ### 💻 Tech Stack
-<p align="center">
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=OxY623&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,express,git,linux,vite" />
-</p>
+</div>
 
 ---
 
