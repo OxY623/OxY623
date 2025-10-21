@@ -29,6 +29,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   ![OxY623's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OxY623&theme=dracula&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxY623&theme=dracula&hide_border=false"/>
 </p>
 
 ---
