@@ -28,8 +28,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxyroot&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyroot&theme=react&hide_border=true&background=0d1117" height="165" />
+  ![OxY623's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OxY623&theme=dracula&hide_border=false)
 </p>
 
 ---
